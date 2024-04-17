@@ -1,5 +1,5 @@
 ---
-## VWRP is in its infancy. The protocol does not function(yet), and needs work. If you need it to work sooner than later, I suggest you learn C :)
+VWRP is in its infancy. The protocol does not function (yet), and needs work. If you need it to work sooner than later, I suggest you learn C :)
 ---
 
 # VWRP (Virtual WAN Reduncancy Protocol)
