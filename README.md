@@ -1,3 +1,7 @@
+---
+## VWRP is in its infancy. The protocol does not function(yet), and needs work. If you need it to work sooner than later, I suggest you learn C :)
+---
+
 # VWRP (Virtual WAN Reduncancy Protocol)
 VWRP is an open protocol, and a test implementation written in C, to conduct near seamless failover on multiple routers with only 1 available WAN IP.
 
